@@ -2,7 +2,8 @@
 
 Add the following to your config.js to add MMM-EarthquakeMonitor to your layout. Share and enjoy. 
 
-__
+_________
+
 {
             module: "MMM-EarthquakeMonitor",
             position: "top_left",
@@ -12,4 +13,5 @@ __
                 apiUrl: "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson"
             }
         },
-__
+
+_________
