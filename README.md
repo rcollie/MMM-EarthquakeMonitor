@@ -1,7 +1,5 @@
 # MMM-EarthquakeMonitor
 
-Add the following to your config.js to add MMM-EarthquakeMonitor to your layout.
-
 Here's the USGS api (specifically the Real-time GeoJSON Feeds) I used.
 
 https://earthquake.usgs.gov/fdsnws/event/1/
@@ -79,6 +77,8 @@ Output
 }
 ```
 
+
+Add the following to your config.js to add MMM-EarthquakeMonitor to your layout.
 
 Share and enjoy. 
 
