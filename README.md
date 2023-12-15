@@ -2,8 +2,8 @@
 
 Add the following to your config.js to add MMM-EarthquakeMonitor to your layout. Share and enjoy. 
 
-_________
 
+```
 {
             module: "MMM-EarthquakeMonitor",
             position: "top_left",
@@ -14,4 +14,4 @@ _________
             }
         },
 
-_________
+```
