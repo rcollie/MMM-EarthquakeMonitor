@@ -1,0 +1,20 @@
+h2 {
+    margin-bottom: 0; /* No space below the title */
+    line-height: 1; /* Adjust this value as needed */
+}
+
+.small-date {
+    font-size: 1em;
+    text-align: left;
+    margin-top: 0px; /* Negative margin to pull the date closer to the title */
+    margin-bottom: 0px; /* Space below the date */
+    line-height: 1; /* Adjust this value as needed */
+}
+
+.quake-info {
+    margin-bottom: 5px;
+    padding: 0px;
+  //  border-bottom: 1px solid #CCC;
+}
+
+/* Additional styles for quake-info, quake-date, etc., if needed */
